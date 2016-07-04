@@ -1,6 +1,6 @@
 <?php
 
-namespace spanjeta\seomanager\models;
+namespace spanjeta\modules\seomanager\models;
 
 use Yii;
 
