@@ -3,8 +3,8 @@
 namespace spanjeta\modules\seomanager\controllers;
 
 use yii\web\Controller;
-use spanjeta\seomanager\models\search\SeomanagerSearch;
-use spanjeta\seomanager\models\Seomanager;
+use spanjeta\modules\seomanager\models\search\SeomanagerSearch;
+use spanjeta\modules\seomanager\models\Seomanager;
 use Yii;
 use yii\filters\VerbFilter;
 use yii\helpers\Inflector;
