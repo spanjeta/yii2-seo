@@ -1,11 +1,11 @@
 <?php
 
-namespace spanjeta\seomanager\models\search;
+namespace spanjeta\modules\seomanager\models\search;
 
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use spanjeta\seomanager\models\Seomanager;
+use spanjeta\modules\seomanager\models\Seomanager;
 
 /**
  * SeoSearch represents the model behind the search form about `app\models\Seo`.
